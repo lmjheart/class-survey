@@ -1,0 +1,5 @@
+{
+  "name": "간단한 데이터시각화",
+  "description": "고성능 인터랙티브 설문 및 의견 분석 도구입니다. 실시간 데이터 시각화, 스마트 워드 클라우드, Gemini 3 Flash 모델을 이용한 AI 기반 감정 분석 및 핵심 테마 추출 기능을 제공합니다.",
+  "requestFramePermissions": []
+}
